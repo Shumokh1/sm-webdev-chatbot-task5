@@ -75,5 +75,5 @@ For more details, see the README at https://github.com/openai/openai-python for 
 - Go to Limits.
 - Click on Add to Credit Balance.
 - Enter your credit card information and continue.
-- 
+  
 This will ensure you have sufficient credits to continue using the API.
