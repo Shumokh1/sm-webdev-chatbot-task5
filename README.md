@@ -71,7 +71,7 @@ For more details, see the README at https://github.com/openai/openai-python for 
 **Solution:**  To resolve this, you need to increase your quota by adding to your credit balance:
 
 - Go to [platform.openai.com](https://platform.openai.com)
-- Navigate to your profile and Organization section at the right.
+- Navigate to your profile and Organization section at the left.
 - Go to Limits.
 - Click on Add to Credit Balance.
 - Enter your credit card information and continue.
