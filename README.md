@@ -1,9 +1,12 @@
 # sm-webdev-chatbot-task6
-Task1: Create a chatbot using openai api
-This project shows how to interact with OpenAI's GPT-3.5-turbo model using the latest version of the OpenAI Python client library. 
+Task1: Create a chatbot using openai api.
+
+This task shows how to interact with OpenAI's GPT-3.5-turbo model using the latest version of the OpenAI Python client library. 
 The script takes user input and generates a response from the model.
 
 ## Demo
+
+<img width="403" alt="Screen Shot 1446-01-20 at 10 27 54 PM" src="https://github.com/user-attachments/assets/abd7e592-84a5-4daa-8bfa-9607a2c329de">
 
 ## Installation
 First, ensure you have Python 3.7+ installed. Then, install the OpenAI library:
@@ -11,6 +14,7 @@ First, ensure you have Python 3.7+ installed. Then, install the OpenAI library:
 ```sh
 pip install openai
 ```
+
 ## Setup
 Open Visual Studio Code and paste the following code into a new Python file:
 
@@ -61,6 +65,7 @@ chat_completion = client.chat.completions.create(
 )
 ```
 For more details, see the README at https://github.com/openai/openai-python for the API.
+
 
 ### Error 2: Error Code 429 - You exceeded your current quota, please check your plan and billing details.
 **Solution:**  To resolve this, you need to increase your quota by adding to your credit balance:
