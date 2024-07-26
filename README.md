@@ -65,9 +65,10 @@ For more details, see the README at https://github.com/openai/openai-python for 
 ### Error 2: Error Code 429 - You exceeded your current quota, please check your plan and billing details.
 **Solution:**  To resolve this, you need to increase your quota by adding to your credit balance:
 
-Go to platform.openai.com.
-Navigate to your profile and Organization section at the right.
-Go to Limits.
-Click on Add to Credit Balance.
-Enter your credit card information and continue.
+- Go to platform.openai.com
+- Navigate to your profile and Organization section at the right.
+- Go to Limits.
+- Click on Add to Credit Balance.
+- Enter your credit card information and continue.
+- 
 This will ensure you have sufficient credits to continue using the API.
