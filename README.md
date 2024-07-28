@@ -1,4 +1,4 @@
-# sm-webdev-chatbot-task6
+# sm-webdev-chatbot-task5
 Task1: Create a chatbot using openai api.
 
 This task shows how to interact with OpenAI's GPT-3.5-turbo model using the latest version of the OpenAI Python client library. 
